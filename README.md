@@ -24,10 +24,10 @@ Hulkbot began as a measley music bot for my server, running SexualRhinoceros's M
 
 # Credits
 [My dad](https://hvobservatories.squarespace.com/) for buying the Raspberry Pi that hosts Hulkbot  
-[Discord Boats](https://discord.boats) for advertising Hulkbot on their awesome bot list
-[Bots for Discord](https://botsfordiscord.com) for advertising Hulkbot on their bot list
-[RHG#0822](https://github.com/RHGDEV) for helping write the original Hulkbot code.
-[NovalFuzzy#2020](https://github.com/NovalFuzzy) for helping write some of the original Hulkbot commands.
+[Discord Boats](https://discord.boats) for advertising Hulkbot on their awesome bot list  
+[Bots for Discord](https://botsfordiscord.com) for advertising Hulkbot on their bot list  
+[RHG#0822](https://github.com/RHGDEV) for helping write the original Hulkbot code.  
+[NovalFuzzy#2020](https://github.com/NovalFuzzy) for helping write some of the original Hulkbot commands.  
 
 # Widgets
 I'm required to put these here to qualify for the certified program in bot lists.  

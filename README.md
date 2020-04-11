@@ -15,15 +15,15 @@ Hulkbot is a new and improving Discord bot that fits all your needs, no matter w
 Run `h!help` in your server to get a list of the commands Hulkbot has!
 A few useful ones are ban, kick, and mute.
 
-# Premium
-I don't know what I'm going to do about Hulkbot Premium right now. I don't have a bank account for the money to go into, therefore the concept of Hulkbot Premium is obsolete. The music module will be free until I can setup the premium system.
+# Premium - UPDATED
+I finally worked something out for premium payments! I am currently writing and implementing the Hulkbot Premium module! It will be out soon!
 
 # Backstory
 Not many bots have a backstory. Hulkbot does though! A quite lengthy one to be exact.  
 Hulkbot began as a measley music bot for my server, running SexualRhinoceros's MusicBot. I eventually was inspired to make my own bot that was more than just a fork of somebody else's code. Development of Alpha Hulkbot began in March of 2017! I developed the first stable version of Hulkbot in Node.js version 7, using Discord.js v9. Let's fast-forward to 2018. Hulkbot died due to some really bad real life issues on my end, and I really didn't know how to fix it. I waited a year, and something inspired me to rewrite a better, more stable version of Hulkbot. Hulkbot's second first birthday will be November 13th, 2020.
 
 # Credits
-[My dad](https://hvobservatories.squarespace.com/) for buying the Raspberry Pi that hosts Hulkbot  
+[Amazon Web Services](https://aws.amazon.com) for providing a free EC2 instance that hosts Hulkbot
 [Discord Boats](https://discord.boats) for advertising Hulkbot on their awesome bot list  
 [Bots for Discord](https://botsfordiscord.com) for advertising Hulkbot on their bot list  
 [RHG#0822](https://github.com/RHGDEV) for helping write the original Hulkbot code.  

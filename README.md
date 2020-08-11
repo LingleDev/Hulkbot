@@ -23,7 +23,7 @@ Not many bots have a backstory. Hulkbot does though! A quite lengthy one to be e
 Hulkbot began as a measley music bot for my server, running SexualRhinoceros's MusicBot. I eventually was inspired to make my own bot that was more than just a fork of somebody else's code. Development of Alpha Hulkbot began in March of 2017! I developed the first stable version of Hulkbot in Node.js version 7, using Discord.js v9. Let's fast-forward to 2018. Hulkbot died due to some really bad real life issues on my end, and I really didn't know how to fix it. I waited a year, and something inspired me to rewrite a better, more stable version of Hulkbot. Hulkbot's second first birthday will be November 13th, 2020.
 
 # Credits
-[GalaxyGate](https://galaxygate.net) for providing a free EC2 instance that hosts Hulkbot
+[GalaxyGate](https://galaxygate.net) for providing cheap hosting!
 [Discord Boats](https://discord.boats) for advertising Hulkbot on their awesome bot list  
 [Bots for Discord](https://botsfordiscord.com) for advertising Hulkbot on their bot list  
 [RHG#0822](https://github.com/RHGDEV) for helping write the original Hulkbot code.  

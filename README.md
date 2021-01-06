@@ -1,4 +1,4 @@
-<img src="https://hulkbot-dashboard.ml/cdn/logo.png" style="border-radius: 100%;">
+<img src="https://fhgdev.is-inside.me/OvH9MrfO.png" style="border-radius: 100%;">
 
 # Hulkbot - a better bot to better your server.
 

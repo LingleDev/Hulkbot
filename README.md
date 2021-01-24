@@ -35,3 +35,5 @@ I'm required to put these here to qualify for the certified program in bot lists
 [![Bots for Discord](https://botsfordiscord.com/api/bot/294194506113220608/widget)](https://botsfordiscord.com/bots/294194506113220608)  
   
 [![Discord Boats](https://discord.boats/api/widget/294194506113220608)](https://discord.boats/bot/294194506113220608)
+
+[![BoatSpace](https://boatspace.xyz/api/bots/294194506113220608/widget)](https://boatspace.xyz/bots/294194506113220608)
